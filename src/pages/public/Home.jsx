@@ -1,10 +1,11 @@
+import ControlSideBar from "../../components/publish/ControlSideBar"
 
 
 const Home = () => {
   return (
-      <div>
-          This is Home Page
-      </div>
+      <>
+        <ControlSideBar/>
+      </>
   )
 }
 

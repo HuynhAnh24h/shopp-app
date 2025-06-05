@@ -11,7 +11,12 @@ const TopbarContent = [
     },
     {
         id: 3,
-        content: "Khuyến mãi nhân dịp khai trươn chi nhánh",
+        content: "Khuyến mãi nhân dịp khai trương chi nhánh",
+        path: "/discount-page"
+    },
+    {
+        id: 4,
+        content: "Deal hời mua ngay",
         path: "/discount-page"
     },
 ]
