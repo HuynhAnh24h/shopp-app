@@ -44,6 +44,11 @@ const SideNav = [
         name: "Health & Beauty",
         path:"/blog"
     },
+    {
+        id: "computer&gear",
+        name: "Computer & Gear",
+        path:"/blog"
+    },
 ]
 
 export default SideNav
